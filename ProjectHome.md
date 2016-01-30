@@ -1,0 +1,1 @@
+This project is of limited use and specific to users of Pool House Manager POS System.
